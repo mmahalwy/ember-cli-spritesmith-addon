@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-spritesmith",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "ember-cli spritesmith addon",
   "main": "index.js",
   "keywords": [
@@ -8,7 +8,9 @@
     "spritesmith",
     "sprites"
   ],
-  "ember-addon-main": "ember-cli-spritesmith-main.js",
+  "ember-addon": {
+    "main": "ember-cli-spritesmith-main.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
