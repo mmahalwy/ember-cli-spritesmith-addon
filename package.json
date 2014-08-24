@@ -1,0 +1,23 @@
+{
+  "name": "ember-cli-spritesmith",
+  "version": "0.0.5",
+  "description": "ember-cli spritesmith addon",
+  "main": "index.js",
+  "keywords": [
+    "ember-addon",
+    "spritesmith",
+    "sprites"
+  ],
+  "ember-addon-main": "ember-cli-spritesmith-main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hysios Hu",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-file-remover": "^0.2.2",
+    "broccoli-merge-trees": "^0.1.4",
+    "broccoli-spritesmith": "0.0.8",
+    "lodash-node": "^2.4.1"
+  }
+}
