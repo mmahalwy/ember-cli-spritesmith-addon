@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-spritesmith",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "ember-cli spritesmith addon",
   "main": "index.js",
   "keywords": [
@@ -17,7 +17,7 @@
   "dependencies": {
     "broccoli-file-remover": "^0.2.2",
     "broccoli-merge-trees": "^0.1.4",
-    "broccoli-spritesmith": "0.0.8",
+    "broccoli-spritesmith": "0.0.9",
     "lodash-node": "^2.4.1"
   }
 }
