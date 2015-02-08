@@ -9,7 +9,8 @@
     "sprites"
   ],
   "ember-addon": {
-    "main": "ember-cli-spritesmith-main.js"
+    "main": "ember-cli-spritesmith-main.js",
+    "before": "broccoli-asset-rev"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
